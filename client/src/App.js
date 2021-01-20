@@ -5,7 +5,7 @@ import { useDispatch } from 'react-redux';
 import { getPosts } from './actions/posts';
 import Posts from './components/Posts/Posts';
 import Form from './components/Form/Form';
-import funtimes from './images/fun.png';
+import funtimes from './images/party.png';
 import styles from './styles';
 
 const App = () => {
